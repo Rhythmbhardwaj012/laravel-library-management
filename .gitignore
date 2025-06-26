@@ -18,3 +18,4 @@ yarn-error.log
 .env
 /storage/*.key
 /public/storage
+/screenshot
